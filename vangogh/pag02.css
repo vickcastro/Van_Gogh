@@ -1,0 +1,195 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fundocolor
+{
+    background: #D2B48C;
+    bottom: 180px;
+    right: 300px;
+    border-radius: 50%;
+    width: 1390px;
+    height: 1400px;
+    position: absolute;
+}
+
+.imagem
+{
+    position: absolute;
+    width: 200px;
+    height: 300px; 
+    top: 20px;
+    left: 40px;
+    border-radius: 180px;
+}
+
+.menu
+{
+    padding-top:30px;
+    width: 50%;
+    text-align: right;
+    font-style: normal;
+    position: absolute;
+    top: 10px;
+    left: 670px;
+}
+
+.menu a{
+    color:black;
+    text-decoration:none;
+    font-weight: bold;
+    margin-right:15px;
+}
+
+.menu button{
+    border:0;
+    background-color: #D2B48C;
+    color:black;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+
+}
+
+
+.menu button:hover{
+    border:0;
+    background-color:white;
+    color: 	#D2B48C;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+
+}
+
+.frase
+{
+    background-color: #D2B48C;
+    margin: 50px;
+    width: 30%;
+    padding: 50px;
+    position: relative;
+    top: -70px;
+    left: 180px;
+}
+
+.sobreobras
+{
+    color: #696969;
+    font-family: "Great Vibes";
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 150px;
+    left: 60px;
+}
+
+.noiteestrelada
+{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 95%;
+    left: 44%;
+}
+
+.comedoresdebatata
+{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 180%;
+    left: 60px;
+}
+
+.sobreobras2
+{
+    color: #696969;
+    font-family: "Great Vibes";
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 350px;
+    left: 63%;
+}
+
+.sobreobras3
+{
+    color: #696969;
+    font-family: "Great Vibes";
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 550px;
+    left: 60px;
+}
+
+.casaamarela
+{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 1650px;
+    left: 44%;
+}
+
+.oquarto
+{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 2160px;
+    left: 60px;
+}
+
+.sobreobras4
+{
+    color: #696969;
+    font-family: "Great Vibes";
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 800px;
+    left: 63%;
+}
+
+.sobreobras5
+{
+    color: #696969;
+    font-family: "Great Vibes";
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 980px;
+    left: 60px;
+}
+
+.amendoeiraemflor
+{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 45px;
+    left: 510px;
+}
+
+.fundocolorfinal
+{
+    background: #D2B48C;
+    width: 1335px;
+    height: 150px;
+    position: absolute;
+    top: 3300px;
+}
